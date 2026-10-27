@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "/home/bontsa/Desktop/MX_Alps_Hybrid-master/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
   (lib (name "random-keyboard-parts")(type "Legacy")(uri "/home/bontsa/Desktop/random-keyboard-parts.pretty-master/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name "Type-C")(type "Legacy")(uri "/home/bontsa/Desktop/keyboard libraries/Type-C.pretty-master/Type-C.lib")(options "")(descr ""))
 )
