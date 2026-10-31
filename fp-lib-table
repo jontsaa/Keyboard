@@ -1,7 +1,7 @@
 (fp_lib_table
   (version 7)
   (lib (name "MX_Only")(type "KiCad")(uri "/home/bontsa/Desktop/MX_Alps_Hybrid-master/MX_Only.pretty")(options "")(descr ""))
-  (lib (name "random-keyboard-parts.pretty-master")(type "KiCad")(uri "/home/bontsa/Desktop/random-keyboard-parts.pretty-master")(options "")(descr ""))
   (lib (name "Type-C.pretty-master")(type "KiCad")(uri "/home/bontsa/Desktop/Type-C.pretty-master")(options "")(descr ""))
   (lib (name "MX_Alps_Hybrid")(type "KiCad")(uri "/home/bontsa/Desktop/MX_Alps_Hybrid-master/MX_Alps_Hybrid.pretty")(options "")(descr ""))
+  (lib (name "random-keyboard-parts.pretty-master")(type "KiCad")(uri "/home/bontsa/Desktop/random-keyboard-parts.pretty-master")(options "")(descr ""))
 )
